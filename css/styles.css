@@ -1,5 +1,0 @@
-.scd-title-col a, .scd-title-row a {
-	/* Do not allow themes to define links font size in Smart Countdown FX titles 
-	Later we may need to add more inherited rules... */
-	font-size: inherit!important;
-}
